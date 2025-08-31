@@ -10,14 +10,16 @@
 ![Element Plus](https://img.shields.io/badge/Element_Plus-2.4.2-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/your-username/hic-zhiku)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/your-username/hic-zhiku/releases)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/Sa1ntCEN/HIC_ZHIKU)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/SaintCEN/HIC_ZHIKU/releases)
 
 </div>
 
+<img src='./img_example/Landing.jpg'></img>
+
 ## 📖 项目简介
 
-华创智库是西电华为创新俱乐部的知识分享平台，旨在为华创同学和西电同学提供学术研究、项目协作和知识传播方面全方位的支持。平台集成了项目管理、知识库、活动管理、竞赛系统等核心功能，为用户提供高效、便捷的协作环境。
+华创智库是西电华为创新俱乐部的知识分享平台，旨在为华创同学和西电同学提供学术研究、项目协作和知识传播方面全方位的支持。平台集成了项目分享、知识库、实用工具、师兄师姐说等核心功能，为用户提供高效、便捷的协作环境。
 
 ## 🎯 功能模块
 
@@ -45,9 +47,13 @@ XDU华创微信公众号最新资讯，掌握社团动态~
 
 华创优秀师兄师姐分享上岸经验，打破信息差~
 
+<img src='./img_example/Portal.jpg'></img>
+
+<img src='./img_example/Tool.jpg'></img>
+
 ## 📞 联系我们
 
-- 👤 项目负责人：[@Sa1ntCHEN](https://github.com/Sa1ntCHEN)
+- 👤 项目负责人：[@SaintCEN](https://github.com/SaintCEN)
 - 🌐 官网: www.xduhic.top
 - 💬 QQ社群：1053588377
 
@@ -61,8 +67,8 @@ XDU华创微信公众号最新资讯，掌握社团动态~
 
 ⭐ 如果这个项目对您有帮助，请给我们一个星标！
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/hic-zhiku?style=social)](https://github.com/your-username/hic-zhiku/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/hic-zhiku?style=social)](https://github.com/your-username/hic-zhiku/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/hic-zhiku)](https://github.com/your-username/hic-zhiku/issues)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/hic-zhiku?style=social)](https://github.com/SaintCEN/HIC_ZHIKU/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/hic-zhiku?style=social)](https://github.com/SaintCEN/HIC_ZHIKU/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/hic-zhiku)](https://github.com/SaintCEN/HIC_ZHIKU/issues)
 
 </div>
