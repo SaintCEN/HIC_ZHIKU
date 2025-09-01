@@ -1,0 +1,147 @@
+# 构建输出
+Server/target/
+UI/dist/
+
+# IDE文件
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# 依赖文件
+UI/node_modules/
+Server/.mvn/wrapper/maven-wrapper.jar
+
+# 上传文件
+Server/uploads/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# 环境变量文件
+.env
+.env.local
+.env.development
+.env.production
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Maven
+Server/target/
+Server/pom.xml.tag
+Server/pom.xml.releaseBackup
+Server/pom.xml.versionsBackup
+Server/pom.xml.next
+Server/release.properties
+Server/dependency-reduced-pom.xml
+Server/buildNumber.properties
+Server/.mvn/timing.properties
+Server/.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+Server/HELP.md
+Server/.gradle
+Server/build/
+Server/!gradle/wrapper/gradle-wrapper.jar
+Server/!**/src/main/**/build/
+Server/!**/src/test/**/build/
+
+# Node.js
+UI/node_modules/
+UI/npm-debug.log*
+UI/yarn-debug.log*
+UI/yarn-error.log*
+UI/lerna-debug.log*
+UI/.pnpm-debug.log*
+
+# 运行时数据
+UI/pids
+UI/*.pid
+UI/*.seed
+UI/*.pid.lock
+
+# Coverage directory used by tools like istanbul
+UI/coverage/
+UI/.nyc_output
+
+# Grunt intermediate storage
+UI/.grunt
+
+# Bower dependency directory
+UI/bower_components
+
+# node-waf configuration
+UI/.lock-wscript
+
+# Compiled binary addons
+UI/build/Release
+
+# Dependency directories
+UI/jspm_packages/
+
+# TypeScript cache
+UI/*.tsbuildinfo
+
+# Optional npm cache directory
+UI/.npm
+
+# Optional eslint cache
+UI/.eslintcache
+
+# Microbundle cache
+UI/.rpt2_cache/
+UI/.rts2_cache_cjs/
+UI/.rts2_cache_es/
+UI/.rts2_cache_umd/
+
+# Optional REPL history
+UI/.node_repl_history
+
+# Output of 'npm pack'
+UI/*.tgz
+
+# Yarn Integrity file
+UI/.yarn-integrity
+
+# dotenv environment variables file
+UI/.env
+UI/.env.test
+UI/.env.production
+
+# parcel-bundler cache
+UI/.cache
+UI/.parcel-cache
+
+# Next.js build output
+UI/.next
+
+# Nuxt.js build / generate output
+UI/.nuxt
+UI/dist
+
+# Gatsby files
+UI/.cache/
+UI/public
+
+# Storybook build outputs
+UI/.out
+UI/.storybook-out
+
+# Temporary folders
+UI/tmp/
+UI/temp/

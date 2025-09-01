@@ -1,0 +1,182 @@
+/* 布局样式 */
+@import 'variables';
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 $spacing-lg;
+
+  &-sm {
+    max-width: 640px;
+  }
+
+  &-md {
+    max-width: 768px;
+  }
+
+  &-lg {
+    max-width: 1024px;
+  }
+
+  &-xl {
+    max-width: 1280px;
+  }
+}
+
+.section {
+  padding: $spacing-2xl 0;
+
+  &-sm {
+    padding: $spacing-lg 0;
+  }
+
+  &-lg {
+    padding: $spacing-3xl 0;
+  }
+}
+
+.flex {
+  display: flex;
+
+  &-col {
+    flex-direction: column;
+  }
+
+  &-wrap {
+    flex-wrap: wrap;
+  }
+
+  &-center {
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-between {
+    justify-content: space-between;
+  }
+
+  &-around {
+    justify-content: space-around;
+  }
+
+  &-start {
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  &-end {
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+}
+
+.grid {
+  display: grid;
+  
+  &-cols-1 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  &-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  &-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  &-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  &-gap-sm {
+    gap: $spacing-sm;
+  }
+  
+  &-gap-md {
+    gap: $spacing-md;
+  }
+  
+  &-gap-lg {
+    gap: $spacing-lg;
+  }
+}
+
+.gap {
+  &-xs {
+    gap: $spacing-xs;
+  }
+  
+  &-sm {
+    gap: $spacing-sm;
+  }
+  
+  &-md {
+    gap: $spacing-md;
+  }
+  
+  &-lg {
+    gap: $spacing-lg;
+  }
+  
+  &-xl {
+    gap: $spacing-xl;
+  }
+}
+
+.m {
+  &-0 {
+    margin: 0;
+  }
+  
+  &-auto {
+    margin: auto;
+  }
+  
+  &-xs {
+    margin: $spacing-xs;
+  }
+  
+  &-sm {
+    margin: $spacing-sm;
+  }
+  
+  &-md {
+    margin: $spacing-md;
+  }
+  
+  &-lg {
+    margin: $spacing-lg;
+  }
+  
+  &-xl {
+    margin: $spacing-xl;
+  }
+}
+
+.p {
+  &-0 {
+    padding: 0;
+  }
+  
+  &-xs {
+    padding: $spacing-xs;
+  }
+  
+  &-sm {
+    padding: $spacing-sm;
+  }
+  
+  &-md {
+    padding: $spacing-md;
+  }
+  
+  &-lg {
+    padding: $spacing-lg;
+  }
+  
+  &-xl {
+    padding: $spacing-xl;
+  }
+} 

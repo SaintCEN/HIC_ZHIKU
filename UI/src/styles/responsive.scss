@@ -1,0 +1,85 @@
+/* 响应式样式 */
+@import 'variables';
+
+/* 移动端优先 */
+
+/* 小屏幕（平板，大于等于 640px） */
+@media (min-width: $breakpoint-sm) {
+  .hidden-sm-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: ($breakpoint-sm - 1px)) {
+  .hidden-xs-down {
+    display: none !important;
+  }
+  
+  .container {
+    padding: 0 $spacing-sm;
+  }
+  
+  .section {
+    padding: $spacing-lg 0;
+  }
+  
+  .grid-cols-2, .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 中等屏幕（平板，大于等于 768px） */
+@media (min-width: $breakpoint-md) {
+  .hidden-md-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: ($breakpoint-md - 1px)) {
+  .hidden-sm-down {
+    display: none !important;
+  }
+  
+  .grid-cols-3, .grid-cols-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 大屏幕（桌面，大于等于 1024px） */
+@media (min-width: $breakpoint-lg) {
+  .hidden-lg-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: ($breakpoint-lg - 1px)) {
+  .hidden-md-down {
+    display: none !important;
+  }
+}
+
+/* 特大屏幕（桌面，大于等于 1280px） */
+@media (min-width: $breakpoint-xl) {
+  .hidden-xl-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: ($breakpoint-xl - 1px)) {
+  .hidden-lg-down {
+    display: none !important;
+  }
+}
+
+/* 超大屏幕（桌面，大于等于 1536px） */
+@media (min-width: $breakpoint-2xl) {
+  .hidden-2xl-up {
+    display: none !important;
+  }
+}
+
+@media (max-width: ($breakpoint-2xl - 1px)) {
+  .hidden-xl-down {
+    display: none !important;
+  }
+}

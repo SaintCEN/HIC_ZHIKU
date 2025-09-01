@@ -1,0 +1,58 @@
+/* 颜色变量 */
+$primary-color: #E41E2B; // 华为红色
+$secondary-color: #00A0E9; // 蓝色
+$dark-color: #181818;
+$light-color: #F5F5F5;
+$background-color: #F8F9FA; // 背景色
+$gray-color: #CCCCCC;
+$gray-light-color: #EEEEEE;
+$gray-dark-color: #666666;
+$text-color: #333333;
+$link-color: #0066CC;
+$success-color: #52C41A;
+$warning-color: #FAAD14;
+$error-color: #FF4D4F;
+
+/* 断点变量 */
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
+$breakpoint-2xl: 1536px;
+
+/* 间距变量 */
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-2xl: 48px;
+$spacing-3xl: 64px;
+
+/* 字体大小变量 */
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 20px;
+$font-size-xxl: 24px;
+$font-size-2xl: 24px;
+$font-size-3xl: 30px;
+$font-size-4xl: 36px;
+
+/* 边框变量 */
+$border-color: #E5E5E5;
+$border-radius-sm: 2px;
+$border-radius-base: 4px;
+$border-radius-lg: 8px;
+$border-radius-xl: 12px;
+$border-radius-full: 9999px;
+
+/* 阴影变量 */
+$shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+$shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+$shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+
+/* 过渡变量 */
+$transition-duration: 0.3s;
+$transition-timing: ease-in-out;
