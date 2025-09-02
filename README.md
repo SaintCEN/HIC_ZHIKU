@@ -12,7 +12,7 @@
 ![Element Plus](https://img.shields.io/badge/Element_Plus-2.4.2-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/Sa1ntCEN/HIC_ZHIKU)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/SaintCEN/HIC_ZHIKU)
 [![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/SaintCEN/HIC_ZHIKU/releases)
 
 </div>
