@@ -1,6 +1,6 @@
 # 🎓 华创智库 - 西电华为创新俱乐部知识分享平台
 
-**域名**：xduhic.top，支持响应式布局，手机/PC均可访问
+**域名**：<a href='xduhic.top'>xduhic.top</a>，支持响应式布局，手机/PC均可访问
 
 <div align="center">
 
