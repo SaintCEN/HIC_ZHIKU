@@ -27,7 +27,7 @@
 
 **依赖项（Windows 10/11, macOS, Linux）：**
 
-**后端环境**
+### 后端环境
 - **Java**: JDK 17 +
 - **Maven**: 3.6 +
 - **MySQL**: 8.0 +
@@ -35,7 +35,7 @@
 - **Node.js**: 18.0+ 
 - **包管理器**: npm, yarn 或 pnpm
 
-**启动方法**:
+### 启动方法
 
 ````
 # 启动后端
@@ -52,7 +52,7 @@ npm run dev
 ````
 
 ````
-# 项目打包
+# 项目打包（实际部署）
 cd Server
 mvn clean package
 cd UI
