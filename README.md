@@ -38,12 +38,6 @@
 **启动方法**:
 
 ````
-# 安装依赖
-cd UI
-npm install
-````
-
-````
 # 启动后端
 cd Server
 mvn clean install
@@ -53,6 +47,7 @@ mvn spring-boot:run
 ````
 # 启动前端
 cd UI
+npm install
 npm run dev
 ````
 
